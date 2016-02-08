@@ -1,0 +1,11 @@
+# folders
+.idea
+target
+lib
+classes
+out
+typings
+node_modules
+
+# files
+*.iml

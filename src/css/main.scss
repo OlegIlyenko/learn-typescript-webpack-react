@@ -1,0 +1,9 @@
+$primary-color: lighten(#f6dcd3, 1);
+
+body {
+  background-color: $primary-color !important;
+}
+
+.foo {
+  color: red !important;
+}
